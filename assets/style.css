@@ -1,0 +1,10 @@
+@import url(base.css);
+
+* {
+    background-color: rgba(26, 227, 26, 0.10);
+}
+
+:root {
+    --color-brand-primary: #2947A9;
+    --color-brand-secondary: #F9995D;
+}
